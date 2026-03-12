@@ -4,3 +4,4 @@ _______________________________________
 Atualizações básicas que serão realizadas no projeto:
 
 Nova tela de login e carregamento.
+Excelente opotunidade de emprendizado;
